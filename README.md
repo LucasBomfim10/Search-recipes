@@ -29,3 +29,6 @@ Lembre-se de que o projeto foi desenvolvido para buscar receitas em inglês. Cer
 
 Você pode personalizar a aparência do aplicativo ajustando as regras de estilo no arquivo `src/components/RecipeSearch.css`.
 
+## Imagem do projeto
+
+![imagem](imagem.PNG)
